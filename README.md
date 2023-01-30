@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFB0E0E6&height=300&section=header&text=youhs1125&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=300&section=header&text=youhs1125&fontSize=90)
 ## 🏃Github Stats
 ![youhs1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=youhs1125&show_icons=true&theme=great-gatsby&count_private=true)
 ## 👨‍💻Tech Stack
