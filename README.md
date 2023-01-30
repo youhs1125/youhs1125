@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=d68c20&height=300&section=header&text=pip-izony&fontSize=90)
 ## 🏃Github Stats
-![Izony's GitHub stats](https://github-readme-stats.vercel.app/api?username=pip-izony&show_icons=true&theme=great-gatsby&count_private=true)
+![youhs1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=youhs1125&show_icons=true&theme=great-gatsby&count_private=true)
 ## 👨‍💻Tech Stack
 <div style="text-align: center">
 
